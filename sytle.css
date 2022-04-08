@@ -1,0 +1,15 @@
+table, th, td {
+        border: 5px solid black;
+        border-collapse: collapse;
+        margin:  0 auto;
+      }
+p, h1{
+    text-align: center;
+}
+img{
+    margin-left: 550px;
+}
+body{background-color:rgb(120, 120, 161);
+  
+}
+h1{color:brown;}
