@@ -303,6 +303,11 @@ section{
  color: #fff;
 }
 
+.footer h1{
+  font-size: 15px;
+ color: #fff;
+}
+
 .container-2{
   height: auto;
   width: 200px;
