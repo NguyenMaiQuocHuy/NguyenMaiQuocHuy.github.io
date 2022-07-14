@@ -222,6 +222,11 @@ nav .navbar a{
     width: 70%;
   }
 }
+
+.baitapĐuocGiaoTao3Web img{
+  width: 200px;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
