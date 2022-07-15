@@ -222,11 +222,6 @@ nav .navbar a{
     width: 70%;
   }
 }
-
-.baitapĐuocGiaoTao3Web img{
-  width: 200px;
-}
-
 * {
   box-sizing: border-box;
   margin: 0;
@@ -341,11 +336,15 @@ input[type="reset"] {
   margin-top: 10px;
 }
 
+.baitapĐuocGiaoTao3Web img{
+  width: 200px;
+}
+
 .baitap1{
   width: 100%;
   text-align: center;
   padding: auto;
-  background: rgb(249, 249, 249);
+  background: #fff;
 }
 .baitap1 img{
   width: 200px;
@@ -370,7 +369,6 @@ input[type="reset"] {
  color: #fff;
 }
 .footer h1{
-  font-size: 15px;
   color: #fff;
 }
 
@@ -395,6 +393,9 @@ input[type="reset"] {
   transition: width .55s ease;
 
 }
+
+
+
 
 nav .fa{
   display: none;
